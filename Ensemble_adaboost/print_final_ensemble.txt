@@ -1,0 +1,132 @@
+------ Entire Dataset (AdaBoost with Logistic Regression) ------
+Accuracy: 0.7171
+Precision: 0.7263
+Recall: 0.6674
+F1-Score: 0.6956
+ROC-AUC: 0.7156
+Confusion Matrix:
+[[5107 1579]
+ [2089 4191]]
+
+
+------ Entire Dataset (AdaBoost with SVM) ------
+Accuracy: 0.6826
+Precision: 0.8153
+Recall: 0.4457
+F1-Score: 0.5763
+ROC-AUC: 0.6754
+Confusion Matrix:
+[[6052  634]
+ [3481 2799]]
+
+
+------ Entire Dataset (AdaBoost with Random Forest) ------
+Accuracy: 0.7315
+Precision: 0.7526
+Recall: 0.6637
+F1-Score: 0.7054
+ROC-AUC: 0.7294
+Confusion Matrix:
+[[5316 1370]
+ [2112 4168]]
+
+
+------ Entire Dataset (AdaBoost with XGBoost) ------
+Accuracy: 0.5157
+Precision: 0.0000
+Recall: 0.0000
+F1-Score: 0.0000
+ROC-AUC: 0.5000
+Confusion Matrix:
+[[6686    0]
+ [6280    0]]
+
+
+------ Women's Dataset (AdaBoost with Logistic Regression) ------
+Accuracy: 0.7172
+Precision: 0.7053
+Recall: 0.6988
+F1-Score: 0.7021
+ROC-AUC: 0.7164
+Confusion Matrix:
+[[3231 1171]
+ [1208 2803]]
+
+
+------ Women's Dataset (AdaBoost with SVM) ------
+Accuracy: 0.6956
+Precision: 0.7993
+Recall: 0.4827
+F1-Score: 0.6019
+ROC-AUC: 0.6861
+Confusion Matrix:
+[[3916  486]
+ [2075 1936]]
+
+
+------ Women's Dataset (AdaBoost with Random Forest) ------
+Accuracy: 0.7332
+Precision: 0.7419
+Recall: 0.6751
+F1-Score: 0.7070
+ROC-AUC: 0.7306
+Confusion Matrix:
+[[3460  942]
+ [1303 2708]]
+
+
+------ Women's Dataset (AdaBoost with XGBoost) ------
+Accuracy: 0.5232
+Precision: 0.0000
+Recall: 0.0000
+F1-Score: 0.0000
+ROC-AUC: 0.5000
+Confusion Matrix:
+[[4402    0]
+ [4011    0]]
+
+
+------ Men's Dataset (AdaBoost with Logistic Regression) ------
+Accuracy: 0.7240
+Precision: 0.7132
+Recall: 0.7174
+F1-Score: 0.7153
+ROC-AUC: 0.7238
+Confusion Matrix:
+[[1718  635]
+ [ 622 1579]]
+
+
+------ Men's Dataset (AdaBoost with SVM) ------
+Accuracy: 0.6847
+Precision: 0.8102
+Recall: 0.4539
+F1-Score: 0.5818
+ROC-AUC: 0.6772
+Confusion Matrix:
+[[2119  234]
+ [1202  999]]
+
+
+------ Men's Dataset (AdaBoost with Random Forest) ------
+Accuracy: 0.7345
+Precision: 0.7518
+Recall: 0.6729
+F1-Score: 0.7101
+ROC-AUC: 0.7325
+Confusion Matrix:
+[[1864  489]
+ [ 720 1481]]
+
+
+------ Men's Dataset (AdaBoost with XGBoost) ------
+Accuracy: 0.5167
+Precision: 0.0000
+Recall: 0.0000
+F1-Score: 0.0000
+ROC-AUC: 0.5000
+Confusion Matrix:
+[[2353    0]
+ [2201    0]]
+
+
