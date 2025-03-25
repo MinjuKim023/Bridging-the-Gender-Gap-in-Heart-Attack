@@ -1,6 +1,4 @@
-# final_mk159_lli4_lc51
-
-## Heart Disease Risk Assessment: A Machine Learning Approach
+# Bridgin The Gender Gap In Heart Attack
 **Team Members:** Minju Kim, Ling Li, Lei Chen
 
 ### Project Overview
