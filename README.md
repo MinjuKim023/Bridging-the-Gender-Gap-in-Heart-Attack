@@ -1,4 +1,4 @@
-# Bridgin The Gender Gap In Heart Attack
+# Bridging The Gender Gap In Heart Attack
 **Team Members:** Minju Kim, Ling Li, Lei Chen
 
 ### Project Overview
